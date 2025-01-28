@@ -137,9 +137,9 @@ def extractyt(url=None,ci=None,is_dngplay=False,is_sliv=False,is_hs=False,is_zee
 
 app = Client(
     "Hinata_ott_downloader_bot",
-    bot_token="8198617358:AAEEezx06YR3VOk1Q15FElzzMZLKHLb8hoU",
-    api_id="5360874",
-    api_hash="4631f40a1b26c2759bf1be4aff1df710",
+    bot_token="7550570083:AAF73q5WQOtZeFB1zwi3K2LxAJn8bsjvcPE",
+    api_id="26802657",
+    api_hash="db8a12648a96d83629391c8574d60d7f",
     sleep_threshold=30
 )
 
